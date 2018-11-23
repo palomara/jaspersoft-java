@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/groovy-all-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/jasperreports-5.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/Desktop/JasperReport/servlet-api-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
